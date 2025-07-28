@@ -59,7 +59,7 @@
 Click the button below to deploy on Heroku instantly:
 
 <p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/TeamSukun/SukunId-AI">
+  <a href="https://heroku.com/deploy?template=https://github.com/sauryakapoor15/SukunId-AIchatbot">
     <img src="https://img.shields.io/badge/Deploy%20To-Heroku-purple?style=for-the-badge&logo=heroku" width="200"/>
   </a>
 </p>
@@ -71,7 +71,7 @@ Click the button below to deploy on Heroku instantly:
 <br>
 
 <p align="center">
-  <a href="https://my.scalingo.com/deploy?template=https://github.com/TeamSukun/SukunId-AI">
+  <a href="https://my.scalingo.com/deploy?template=https://github.com/sauryakapoor15/SukunId-AIchatbot">
     <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" />
   </a>
 </p>
@@ -91,7 +91,7 @@ sudo apt install python3-pip ffmpeg -y
 pip3 install -U pip
 
 # Clone and run
-git clone https://github.com/TeamSukun/SukunId-AI && cd SukunId-AI
+git clone https://github.com/sauryakapoor15/SukunId-AIchatbot && cd SukunId-AIchatbot
 pip3 install -U -r requirements.txt
 
 # Add your env variables
