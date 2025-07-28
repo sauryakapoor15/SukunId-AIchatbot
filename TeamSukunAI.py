@@ -259,6 +259,7 @@ async def teamsukunaiprivate(client: Client, message: Message):
                await message.reply_text(f"{hey}")
        
 
+
 @bot.on_message(
  (
         filters.sticker
