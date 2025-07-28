@@ -1,1 +1,1 @@
-SukunAI: python3 SukunAI.py
+TeamSukunAI: python3 TeamSukunAI.py
