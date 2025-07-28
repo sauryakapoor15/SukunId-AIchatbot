@@ -1,0 +1,28 @@
+{
+    "name": "SukunID-AI",
+    "description": "Telegram Best Id AI chatbot by TeamSukun.",
+    "logo": "https://telegra.ph/file/6abaad64821214c43657f.jpg",
+    "env": {
+        "STRING": {
+            "description": "Pyrogram String session of your account",
+            "required": true
+        },
+        "MONGO_URL": {
+            "description": "mongo db url here",
+            "required": true
+        },
+        "API_ID": {
+            "description": "telegram api id here",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "telegram api hash here",
+            "required": true
+        }
+    },
+    "addons": [
+        {
+            "plan": "heroku-postgresql"
+        }
+    ]
+}
