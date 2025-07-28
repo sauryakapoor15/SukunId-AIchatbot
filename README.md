@@ -8,6 +8,13 @@
   <img src="https://telegra.ph/file/ced98138e5e9e7c912098.jpg" width="240px" alt="SukunId-AI Logo" />
 </p>
 
+<p align="center">
+    <a href="https://github.com/sauryakapoor15/SukunId-AIchatbot"> <img src="https://img.shields.io/github/repo-size/sauryakapoor15/SukunId-AIchatbot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/sauryakapoor15/SukunId-AIchatbot/commits/prince"> <img src="https://img.shields.io/github/last-commit/sauryakapoor15/SukunId-AIchatbot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/sauryakapoor15/SukunId-AIchatbot/issues"> <img src="https://img.shields.io/github/issues/sauryakapoor15/SukunId-AIchatbot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/sauryakapoor15/SukunId-AIchatbot/network/members"> <img src="https://img.shields.io/github/forks/sauryakapoor15/SukunId-AIchatbot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
+</p>
 ---
 
 ## 🚀 ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴛʜʀᴏᴜɢʜ ʜᴇʀᴏᴋᴜ
